@@ -34,6 +34,7 @@ Aprendi a crear el watch para los providers y pasar la informacion entre widgets
 <img src="https://raw.githubusercontent.com/nunezp20/MobileApps-Tarea5/master/assets/capture5.png" width="300">
 
 <img src="https://raw.githubusercontent.com/nunezp20/MobileApps-Tarea5/master/assets/capture6.png" width="300">
+
 ## Author:
 
 - [@ennzu](https://www.github.com/nunezp20)
